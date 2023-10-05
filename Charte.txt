@@ -1,4 +1,5 @@
 Ma proposition d'articles pour la charte du groupe :
     - Respectueux et poli envers les autres collaborateur, tu seras.
-    - De bonne humeur, tu seras
+    - De bonne humeur, tu seras.
+    - Apprendre à coder pour devenir concepteur développeur, tu devras.
     
